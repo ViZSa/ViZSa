@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm ViZSa 👋</h1>
+<h1 align="center">Hi, I'm Visal Lochana 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ViZSa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,10 +9,9 @@
 ## 👤 About Me
 
 - 🎓 I am an undergraduate at NIBM.  
-- 💡 I love using software as a solution for every problem.  
 - 🧠 I’m currently learning Software Engineering.  
 - 🚀 Always eager to learn — forever growing.  
-- 🌐 My personal website: *(Coming Soon...)*
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/7d7da2984e8e540e068921b08b8e8f0c.gif" width="400px" alt="Coding illustration"/>
@@ -23,7 +22,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/visal-lochana/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://www.facebook.com/visal.lochana/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/></a>
 
