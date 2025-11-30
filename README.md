@@ -21,11 +21,7 @@
 ---
 
 ## 🏆 Competitive Programming Profiles  
-*(Add your profiles here — e.g. Codeforces, HackerRank, LeetCode…)*  
 
-- Codeforces: `@YourHandle`  
-- HackerRank: `@YourHandle`  
-- LeetCode: `@YourHandle`  
 
 ---
 
@@ -33,9 +29,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/visal-lochana/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-
   <a href="https://www.facebook.com/visal.lochana/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://www.instagram.com/_viz_sa_/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+
 </p>
 
 ---
@@ -57,8 +52,3 @@
 
 ---
 
-## 🚀 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViZSa&layout=compact&theme=tokyonight" alt="Most used programming languages by ViZSa"/>
-</p>
