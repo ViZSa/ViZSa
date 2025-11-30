@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/visal-lochana/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://www.facebook.com/visal.lochana/" target="_blank"><img align="center" src="[https://skillicons.dev/icons?i=facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)" height="40"/></a>
+  <a href="https://www.facebook.com/visal.lochana/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/></a>
 
 </p>
 
