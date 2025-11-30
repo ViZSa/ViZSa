@@ -18,12 +18,8 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/7d7da2984e8e540e068921b08b8e8f0c.gif" width="400px" alt="Coding illustration"/>
 </p>
 
----
-
-## 🏆 Competitive Programming Profiles  
 
 
----
 
 ## 🌐 Connect with Me
 
